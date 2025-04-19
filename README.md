@@ -24,6 +24,9 @@ The **Gradio UI** provides a simple web interface that makes it easy to interact
 - **Get Real-time Transcription** as you speak.
 - **Upload Audio Files** for transcription.
 
+![image](https://github.com/user-attachments/assets/f0f905cd-b628-46e4-85e8-1c3eb93f3261)
+
+
 The Gradio interface connects directly to the Wav2Vec2 model, allowing you to transcribe speech into text quickly and easily.
 
 ---
